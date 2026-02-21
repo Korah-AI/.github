@@ -5,13 +5,8 @@
 
 > **Free AI Tutoring and Study App Made For Underrepresented Students.**
 
-Korah is an iOS app that combines AI tutoring with comprehensive study tools to help students succeed academically. I aim to make this a mini open-source project so that my community's student body might thrive because of our code.
----
-## QUICK LINKS
-- **[App Repository]([url](https://github.com/Korah-AI/korah-beta-))**
-- **[Website]([url](https://korah.app))**
-- **[Otto A.I]([url](https://github.com/Korah-AI/otto-ai))**
-
+- Korah is an iOS app that combines AI tutoring with comprehensive study tools to help students succeed academically.
+- I aim to make this a mini open-source project so that my community's student body might thrive because of our code.
 
 ## 🌟 Features
 
